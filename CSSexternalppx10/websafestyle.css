@@ -1,0 +1,26 @@
+body{
+    background-color: #d6d3d3;
+}
+div.a
+{
+background-image: linear-gradient(#ffffff, #92e6a7);
+box-shadow: 5px 5px 5px #1a1616;
+height: 100%;
+width: 200px
+}
+.s
+{
+    display: inline-block;
+}
+#sans
+{
+font-family: Arial, Helvetica, sans-serif
+}
+#monospace
+{
+font-family: 'Courier New', Courier, monospace;
+}
+#serif
+{
+font-family: 'Times New Roman', Times, serif;
+}

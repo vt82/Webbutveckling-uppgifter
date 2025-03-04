@@ -1,0 +1,16 @@
+/* CSS TYPE SHEEEEEET */
+.a {
+    margin: 40px;
+    background-color: #00a6fb;
+}
+.b {
+   margin: 20px;
+   padding: 20px;
+   background-color: #0582ca;
+}
+div.c{
+    border: 7px solid green;
+    background-color: #006494;
+    padding: 30px;
+    margin: 30px;
+}
