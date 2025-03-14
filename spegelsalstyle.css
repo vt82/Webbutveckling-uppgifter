@@ -1,0 +1,56 @@
+div
+{
+    margin: 1%;
+    width:  23%;
+    height: 500px;
+    float: left;
+    background-color: forestgreen;
+    border-radius: 10px;
+}
+div.b
+{
+    display:block;
+    margin: 1%;
+    width:  23%;
+    height: 80px;
+    float: left;
+    background-color: forestgreen;
+    border-radius: 10px;
+}
+p
+{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    height: 50px;
+    margin: 3%; 
+    background-color: lightgreen;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: xx-large;
+}
+a
+{
+    color: green;
+    outline: none;
+    text-decoration: none;
+    font-family: 'Courier New', Courier, monospace;
+    height: 50px;
+    margin: 3%; 
+    background-color: lightgreen;
+    display: block;
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 25px;
+}
+a:hover
+{
+    color: black;
+    background-color: blanchedalmond;
+    font-size: xx-large;
+    padding-top: 15px;
+}
+body
+{
+    background-color: rgb(118, 182, 118);
+}
